@@ -407,22 +407,18 @@ These questions aim to show you the basic building blocks of programming
    Include a method for adding two quadratic expressions together and also a
    method to calculate the roots of the expression.
 
-8. **TICKABLE** The data file `quadratics.csv`
-   ([download]({{site.baseurl}}/assets/data/quadratics.csv)) contains data
-   corresponding to quadratic expression of the form:
+8. **TICKABLE** Use the class from the previous question to find out how
+   many of the following quadratics have real roots:
 
-   ```
-   a,b,c
-   1,4,7
-   11,7,14
-   16,2,8
-   14,7,13
-   2,20,5
-   ...
-   ```
+   $$x^2 + 4x + 7$$
 
-   Read in the data file (you might find it helpful to read about the `csv`
-   library) and identify how many quadratics have real roots.
+   $$11x^2 + 7x + 14$$
+
+   $$16x^2 + 2x + 8$$
+
+   $$14x^2 + 7x + 13$$
+
+   $$2x^2 + 20x + 5$$
 
 9. If rain drops were to fall randomly on a square of side length \\(2r\\) the
    probability of the drops landing in an inscribed circle of radius \\(r\\)
